@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="left">Hey! I'm Stephen! 👋
 
 - 🔭 I’m currently working on a bored application that spits out idea's for activities based on genre the user selects
 
