@@ -11,8 +11,6 @@
 
 📄 My resume can be found [here](https://madebystephen.ca/assets/Stephen_McMullin_Resume.pdf).
 
-📫 How to reach me: <stephen.mcmullin@icloud.com>
-
 <h3 align="left">Connect with me:</h3>
 
 <a href="https://twitter.com/SteveMcMullin5">
@@ -21,6 +19,8 @@
 <a href="https://linkedin.com/in/samcmullin">
   <img align="left" alt="Stephen McMullin LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
+[✉](mailto:stephen.mcmullin@icloud.com)
 
 <!--
 **samcmullin/samcmullin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
