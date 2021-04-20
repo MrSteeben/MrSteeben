@@ -21,8 +21,6 @@
   <img align="left" alt="Stephen McMullin LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<h3 align="left">My Blogs:</h3>
-<p>Soon to come...</p>
 <!--
 **samcmullin/samcmullin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
