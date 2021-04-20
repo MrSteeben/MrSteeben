@@ -1,10 +1,12 @@
 <h1 align="left">Hey! I'm Stephen! 👋</h1>
 
+<p>
 🔭 I’m currently working on a bored application that spits out idea's for activities based on genre the user selects
 
 🌱 Currently expanding my skills in JavaScript and React, and exploring the back-end (Node, Express, MongoDB, Postgres), and Python.
 
 💬 Ask me about random fun facts, I got a few of them!
+</p>
 <!--
 **samcmullin/samcmullin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
