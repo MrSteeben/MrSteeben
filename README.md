@@ -2,6 +2,7 @@
 <h3 align="left">I'm a Front-End Web Developer who loves to create interactive applications and experiences one div at a time.</h3>
 
 💻 Check out my portfolio at [https://madebystephen.ca](https://madebystephen.ca).
+
 🌱 Currently expanding my skills in JavaScript and React, and exploring the back-end (Node, Express, MongoDB, Postgres), and Python.
 
 💬 Ask me about random facts, I got a few of them!
